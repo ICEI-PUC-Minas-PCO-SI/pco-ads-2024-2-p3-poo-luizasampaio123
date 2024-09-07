@@ -1,0 +1,14 @@
+C:\Users\Pichau\source\repos\Veículos\Veículos\bin\Debug\net8.0\Veículos.exe
+C:\Users\Pichau\source\repos\Veículos\Veículos\bin\Debug\net8.0\Veículos.deps.json
+C:\Users\Pichau\source\repos\Veículos\Veículos\bin\Debug\net8.0\Veículos.runtimeconfig.json
+C:\Users\Pichau\source\repos\Veículos\Veículos\bin\Debug\net8.0\Veículos.dll
+C:\Users\Pichau\source\repos\Veículos\Veículos\bin\Debug\net8.0\Veículos.pdb
+C:\Users\Pichau\source\repos\Veículos\Veículos\obj\Debug\net8.0\Veículos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\source\repos\Veículos\Veículos\obj\Debug\net8.0\Veículos.AssemblyInfoInputs.cache
+C:\Users\Pichau\source\repos\Veículos\Veículos\obj\Debug\net8.0\Veículos.AssemblyInfo.cs
+C:\Users\Pichau\source\repos\Veículos\Veículos\obj\Debug\net8.0\Veículos.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\source\repos\Veículos\Veículos\obj\Debug\net8.0\Veículos.dll
+C:\Users\Pichau\source\repos\Veículos\Veículos\obj\Debug\net8.0\refint\Veículos.dll
+C:\Users\Pichau\source\repos\Veículos\Veículos\obj\Debug\net8.0\Veículos.pdb
+C:\Users\Pichau\source\repos\Veículos\Veículos\obj\Debug\net8.0\Veículos.genruntimeconfig.cache
+C:\Users\Pichau\source\repos\Veículos\Veículos\obj\Debug\net8.0\ref\Veículos.dll
